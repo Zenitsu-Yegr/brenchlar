@@ -1,0 +1,6 @@
+	git branch yangi-funksiya        # branch yaratish
+	git checkout yangi-funksiya      # branchga o'tish
+	# ... o'zgarishlar, add, commit ...
+	git checkout master              # masterga qaytish
+	git merge yangi-funksiya         # birlashtirish ✅
+
