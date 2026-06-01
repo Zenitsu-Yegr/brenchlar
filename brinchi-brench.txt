@@ -4,3 +4,4 @@
 	git checkout master              # masterga qaytish
 	git merge yangi-funksiya         # birlashtirish ✅
 
+bu qator branch1 da yozilib keyin qoshildi 
