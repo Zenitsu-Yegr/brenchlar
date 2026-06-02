@@ -1,1 +1,4 @@
-birinchi brench yaratildi  unga commit qilindi hamda mearch qilish jarayonlari davom etmoqda 
+birinchi brench yaratildi  unga commit qilindi hamda mearch qilish jarayonlari davom etmoqda
+
+git hubdan ko'rinadigan qilish 
+ 
