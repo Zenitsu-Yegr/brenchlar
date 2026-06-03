@@ -1,4 +1,6 @@
 birinchi brench yaratildi  unga commit qilindi hamda mearch qilish jarayonlari davom etmoqda
 
+git hubda qilingan ozgarish
+
 git hubdan ko'rinadigan qilish 
  
