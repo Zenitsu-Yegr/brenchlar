@@ -1,8 +1,8 @@
 birinchi brench yaratildi  unga commit qilindi hamda mearch qilish jarayonlari davom etmoqda
 
-git hubda qilingan ozgarish
+	atayin hato yaratishi uchun qilinga matin terminalda 
+	atayin hato 2
 
-o'zgarish ikki
 
 git hubdan ko'rinadigan qilish 
  
