@@ -2,5 +2,7 @@ birinchi brench yaratildi  unga commit qilindi hamda mearch qilish jarayonlari d
 
 git hubda qilingan ozgarish
 
+o'zgarish ikki
+
 git hubdan ko'rinadigan qilish 
  
